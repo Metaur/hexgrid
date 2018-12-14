@@ -45,8 +45,8 @@ var directions = []hex{
 //        \  +R   /
 //         \ _ _ /
 type hex struct {
-	q int // x axis
-	r int // y axis
+	q int // X axis
+	r int // Y axis
 	s int // z axis
 }
 
